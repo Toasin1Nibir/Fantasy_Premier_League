@@ -1,0 +1,7 @@
+.btn{
+    background-color: goldenrod;
+    border: 1px solid lightgray;
+    width:150px;
+    height:50px;
+    border-radius:5px
+}

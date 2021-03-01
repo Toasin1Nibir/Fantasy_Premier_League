@@ -1,0 +1,10 @@
+[{"id":1,"name":"Cristiano Ronaldo","salary":600000,"image":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg"},
+{"id":2,"name":"Lionel Messi","salary":600000,"image":"https://cdn.britannica.com/34/212134-050-A7289400/Lionel-Messi-2018.jpg"},
+{"id":3,"name":"Neymar","salary":500000,"image":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Bra-Cos_%281%29.jpg"},
+{"id":4,"name":"Eden Hazard","salary":480000,"image":"https://upload.wikimedia.org/wikipedia/commons/4/46/Eden_Hazard_at_Baku_before_2019_UEFA_Europe_League_Final.jpg"},
+{"id":5,"name":"Grizmann","salary":450000,"image":"https://upload.wikimedia.org/wikipedia/commons/6/6e/FRA-ARG_%2810%29_%28cropped%29.jpg"},
+{"id":6,"name":"Sergio Ramos","salary":420000,"image":"https://upload.wikimedia.org/wikipedia/commons/8/88/FC_RB_Salzburg_versus_Real_Madrid_%28Testspiel%2C_7._August_2019%29_09.jpg"},
+{"id":7,"name":"Sergio Aguero","salary":32000,"image":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Ag%C3%BCero_in_2018.jpg"},
+{"id":8,"name":"Kylian Mbappe","salary":520000,"image":"https://upload.wikimedia.org/wikipedia/commons/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg"},
+{"id":9,"name":"Luis Suarez","salary":280000,"image":"https://upload.wikimedia.org/wikipedia/commons/7/71/Luis_Su%C3%A1rez_Atl%C3%A9tico_Madrid.jpg"},
+{"id":10,"name":"Mohamed Salah","salary":250000,"image":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Mo_Salah_2018.png"}]
